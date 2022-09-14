@@ -5,6 +5,6 @@ Skillsets :
           * Spring Boot
           * RESTful API
           * HTML
-          * CSS
+          * Javscript-CSS
           * MySQL
           * JUNIT
