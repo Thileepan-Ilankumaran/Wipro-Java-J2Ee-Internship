@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Wipro-Java-J2Ee-Internship">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OOPS and Inheritance.zip!/" />
+      <root url="jar://$PROJECT_DIR$/RDBMS -SQL_JDBC.zip!/" />
+      <root url="jar://$PROJECT_DIR$/HTML.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Junit.zip!/" />
+      <root url="jar://$PROJECT_DIR$/I-O streams.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Abstraction Packages ExceptionHandling.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Java 8 Features.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Spring.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SpringBoot.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JAVA FUNDAMENTALS.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Hibernate.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Wrapper classes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Servlets and JSP.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Collections.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JavaScript-CSS.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
